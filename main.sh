@@ -1,3 +1,4 @@
+# edit main.sh ba branch Salim dar github
 clear
 echo -e "\e[47m\e[31mPWD: `pwd`\e[0m" 
 # echo -e "\e[47m\e[31mPWD: ta inja PWD ra faghat ba rang red print mikonad 
